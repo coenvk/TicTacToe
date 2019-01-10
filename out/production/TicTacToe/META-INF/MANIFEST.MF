@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: out/production/TicTacToe/com/learncode/ttt/view/GUIView.cl
+ ass
+Main-Class: com.learncode.ttt.view.GUIView
+
